@@ -33,6 +33,7 @@ body {
    text-transform: uppercase;  
   }
 
+
   .logo-style {
     color: #2e2f42;
   }
@@ -69,6 +70,7 @@ body {
 
   .main-title {
     font-weight: 700;
+    text-align: center;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -157,7 +159,7 @@ body {
     text-transform: uppercase;  
    }
  
-  .logo-style {
+  .style-logo {
     color: #F4F4FD; 
    }
   
