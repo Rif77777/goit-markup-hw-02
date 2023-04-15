@@ -1,3 +1,60 @@
 :root {
-    
+--primary-font:"Roboto", sans-serif;
+--secondary-font:"Raleway", sans-serif;
+--primary-background-color: #ffffff;
+--secondary-background-color: #4d5ae5;
+--primary-text-color: #434455;
+--secondary-text-color: #2e2f42;
+--primary-button-color: #4d5ae5;
+--primary-button-background-color: #f4f4fd;  
 }
+
+body {
+    font-family: var(--primary-font);
+    background-color: var(--primary-background-color);
+    color: var(--primary-text-color);
+  }
+
+  .list {
+    list-style: none;
+  }
+
+  .link {
+    text-decoration: none;
+  }
+
+  .logo {
+    font-family: var(--secondary-font);
+    color: #4D5AE5;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;  
+  }
+  .logo-style {
+    color: #2e2f42;
+  }
+
+  .navi-list {
+   color: var(--secondary-text-color);
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+  }
+
+  .navi-list:hover, .navi-list:focus {
+   color: #404BBF; 
+  }
+
+  .contacts-list {
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+
+
+  }
