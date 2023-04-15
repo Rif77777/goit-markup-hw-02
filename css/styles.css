@@ -141,6 +141,30 @@ body {
    line-height: 24px;
    letter-spacing: 0.02em;   
    color: var(--primary-text-color);
-  }
+   }
 
+  .footer {
+    background: #2e2f42;
+  }
   
+  .logo {
+    font-family: var(--secondary-font);
+    color: #4D5AE5;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;  
+   }
+ 
+  .logo-style {
+    color: #F4F4FD; 
+   }
+  
+  .conclusion {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+  }
