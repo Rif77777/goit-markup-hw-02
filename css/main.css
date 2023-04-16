@@ -78,8 +78,8 @@
 
      .button-item:hover,
      .button-item:focus {
-     background-color: #404BBF;
      color: #ffffff;
+     background-color: #404BBF;
      cursor: pointer;
     }
      
