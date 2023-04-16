@@ -127,7 +127,7 @@ body {
    color: var(--secondary-text-color);
    }
 
-  .section-team {
+  .team-section {
     background-color: #F4F4FD;
   }
 
@@ -139,6 +139,7 @@ body {
    letter-spacing: 0.02em;
    text-transform: capitalize;
    color: var(--secondary-text-color); 
+   background-color: #FFFFFF;
    }
 
   .employee-name {
