@@ -59,9 +59,7 @@
      color: #434455;
     }
 
-    .contacts-search:hover {
-      color: #404BBF;
-    }
+    .contacts-search:hover, 
     .contacts-search:focus {
      color: #404BBF;
     }
