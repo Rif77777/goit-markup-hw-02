@@ -26,7 +26,6 @@
       .logo {
        font-family: var(--secondary-font);
        color: #4D5AE5;
-       font-weight: 800;
        font-size: 18px;
        line-height: 1.17;
        letter-spacing: 0.03em;
@@ -40,7 +39,6 @@
     
       .navi-list {
        color: var(--secondary-text-color);
-       font-weight: 500;
        font-size: 16px;
        line-height: 1.5;
        letter-spacing: 0.02em;
@@ -54,8 +52,6 @@
         font-style: normal;
       }
       .contacts-search {
-       font-style: normal; 
-       font-weight: 400;
        font-size: 16px;
        line-height: 1.5;
        letter-spacing: 0.02em;
@@ -77,7 +73,6 @@
       }
     
       .main-title {
-        font-weight: 700;
         text-align: center;
         font-size: 56px;
         line-height: 1.07;
@@ -86,7 +81,6 @@
     
       .button {
         font-family: inherit;
-        font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
@@ -98,11 +92,9 @@
      .button:focus {
        background-color: #404bbf;
        color: #ffffff;
-       cursor: pointer;
       }
       
       .subtitle-features {
-        font-weight: 500;
         font-size: 20px;
         line-height: 1.2; 
         letter-spacing: 0.02em;    
@@ -110,15 +102,13 @@
        }
        
       .description {
-        font-weight: 400;
         font-size: 16px;
-        line-height: 24px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
        }
        
       .image-title {
-       font-weight: 700;
        font-size: 36px;
        line-height: 1.11;
        text-align: center;
@@ -132,35 +122,29 @@
       }
     
       .team-title {
-       font-weight: 700;
        font-size: 36px;
        line-height: 1.11;
        text-align: center;
        letter-spacing: 0.02em;
        text-transform: capitalize;
        color: var(--secondary-text-color); 
-       background-color: #FFFFFF;
        }
      .team-list {
         background-color: #FFFFFF;
      }
      
       .employee-name {
-       font-weight: 500;
        font-size: 20px;
-       line-height: 24px;
+       line-height: 1.2;
        letter-spacing: 0.02em;
        color: var(--secondary-text-color);
-       background-color: #FFFFFF;
        }
     
       .employee-position {
-       font-weight: 400;
        font-size: 16px;
-       line-height: 24px;
+       line-height: 1.5;
        letter-spacing: 0.02em;   
        color: var(--primary-text-color);
-       background-color: #FFFFFF;
        }
     
       .footer {
@@ -170,7 +154,6 @@
       .logo {
         font-family: var(--secondary-font);
         color: #4D5AE5;
-        font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -182,7 +165,6 @@
        }
       
       .conclusion {
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -216,7 +198,6 @@
         .logo {
          font-family: var(--secondary-font);
          color: #4D5AE5;
-         font-weight: 800;
          font-size: 18px;
          line-height: 1.17;
          letter-spacing: 0.03em;
@@ -229,7 +210,6 @@
          }
           .navi-list {
          color: var(--secondary-text-color);
-         font-weight: 500;
          font-size: 16px;
          line-height: 1.5;
          letter-spacing: 0.02em;
@@ -243,7 +223,6 @@
           font-style: normal;
         }
         .contacts-search {
-         font-weight: 400;
          font-size: 16px;
          line-height: 1.5;
          letter-spacing: 0.02em;
@@ -259,7 +238,6 @@
          
           .button-item {
          font-family: inherit;
-         font-weight: 500;
          font-size: 16px;
          line-height: 1.5;
          letter-spacing: 0.04em;
@@ -275,7 +253,6 @@
         }
          
         .features-title {
-         font-weight: 500;
          font-size: 20px;
          line-height: 1.2;
          letter-spacing: 0.02em;
@@ -283,7 +260,6 @@
         }
     
         .features-subtitle {
-         font-weight: 400;
          font-size: 16px;
          line-height: 1.5;
          letter-spacing: 0.02em;
@@ -297,7 +273,6 @@
         .logo {
          font-family: var(--secondary-font);
          color: #4D5AE5;
-         font-weight: 800;
          font-size: 18px;
          line-height: 1.17;
          letter-spacing: 0.03em;
@@ -309,7 +284,6 @@
         }
           
         .conclusion {
-         font-weight: 400;
          font-size: 16px;
          line-height: 1.5;
          letter-spacing: 0.02em;
