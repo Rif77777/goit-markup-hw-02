@@ -59,9 +59,9 @@
      color: #434455;
     }
 
-    .contacts:hover,
-    .contacts:focus {
-     color: #404bbf;
+    .contacts-search :hover
+    .contacts-search :focus {
+     color: #404BBF;
     }
 
     .button {
