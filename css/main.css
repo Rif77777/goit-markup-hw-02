@@ -59,6 +59,10 @@
      color: #434455;
     }
 
+    .contacts-search:hover,
+    .contacts-search:focus {
+     color: #404bbf;
+}
     .button {
      font-family: inherit;
      font-weight: 500;
