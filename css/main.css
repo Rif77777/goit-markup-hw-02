@@ -76,8 +76,8 @@
     
      .button:hover,
      .button:focus {
-     background-color: #2e2f42;
-     color:#4D5AE5;
+     background-color: #ffffff;
+     color: #ffffff;
      cursor: pointer;
     }
      
