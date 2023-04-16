@@ -59,8 +59,8 @@
      color: #434455;
     }
 
-    .contacts-search :hover
-    .contacts-search :focus {
+    .contacts-search:hover
+    .contacts-search:focus {
      color: #404BBF;
     }
 
@@ -70,7 +70,7 @@
      font-size: 16px;
      line-height: 1.5;
      letter-spacing: 0.04em;
-     color: #ffffff;
+     color: #4d5ae5;
      background: var(--secondary-background-color);
     }
     
