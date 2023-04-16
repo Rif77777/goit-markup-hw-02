@@ -141,7 +141,10 @@
        color: var(--secondary-text-color); 
        background-color: #FFFFFF;
        }
-    
+     .team-list {
+        background-color: #FFFFFF;
+     }
+     
       .employee-name {
        font-weight: 500;
        font-size: 20px;
