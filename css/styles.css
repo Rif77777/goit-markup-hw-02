@@ -127,7 +127,10 @@ body {
    color: var(--secondary-text-color);
    }
 
-
+  .section-team {
+    background-color: #F4F4FD;
+  }
+  
   .team-title {
    font-weight: 700;
    font-size: 36px;
@@ -137,10 +140,6 @@ body {
    text-transform: capitalize;
    color: var(--secondary-text-color); 
    }
-
-   .team-list {
-    background-color: #F4F4FD;
-  }
 
   .employee-name {
    font-weight: 500;
