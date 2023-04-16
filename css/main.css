@@ -76,8 +76,8 @@
     
      .button:hover,
      .button:focus {
-     background-color: #ffffff;
-     color: #4d5ae5;
+     background-color: #F4F4FD;
+     color: #ffffff;
      cursor: pointer;
     }
      
@@ -92,8 +92,8 @@
     } 
 
      .button-item:hover,
-     .button:focus {
-     background-color: #ffffff;
+     .button-item:focus {
+     background-color: #404BBF;
      color: #ffffff;
      cursor: pointer;
     }
