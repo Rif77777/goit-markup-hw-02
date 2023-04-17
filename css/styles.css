@@ -74,6 +74,8 @@
       .dark-theme {
         color: #FFFFFF;
       }
+
+
     
       .main-title {
         text-align: center;
@@ -81,9 +83,14 @@
         line-height: 1.07;
         letter-spacing: 0.02em;
        }
+
+        .main-title:hover,
+        .main-title:focus {
+         background-color: #404BBF;
+         cursor: pointer;
+        }
     
       .button {
-        font-family: inherit;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -230,6 +237,7 @@
         }
      
           .button-item {
+         font-family: var(--primary-font);   
          font-weight: 500;
          font-size: 16px;
          line-height: 1.5;
@@ -242,6 +250,7 @@
          .button-item:focus {
          color: #ffffff;
          background-color: #404BBF;
+         cursor: pointer;
         }
          
         .features-title {
