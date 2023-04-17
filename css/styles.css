@@ -97,10 +97,11 @@
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #ffffff;
+        background-color: #4D5AE5
        }
        
-       .button-item:hover,
-       .button-item:focus {
+       .button:hover,
+       .button:focus {
         background-color: #404BBF;
         cursor: pointer;
          
